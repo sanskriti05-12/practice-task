@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ #navbar ul{
+    list-style: none;
+
+ }
+ #navbar ul li a{
+    text-decoration: none;
+ }
+ ul{
+    display: flex;
+    justify-content: space-between;
+ }
